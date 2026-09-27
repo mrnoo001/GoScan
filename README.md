@@ -60,4 +60,4 @@ python main.py
 
 ## Lisensi
 
-Tambahkan berkas `LICENSE` sesuai kebutuhan Anda (misalnya MIT) sebelum mempublikasikan repository ini.
+Proyek ini dilisensikan di bawah MIT License.
